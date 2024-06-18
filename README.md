@@ -1,13 +1,19 @@
 # Matchquest-Matchain
 Matchquest or matchain claim
-
-
+join our channel telegram : @Plancpremium signal / https://t.me/Plancpremiumsignal 
 <br>
+
+## Show Menu and Features
 
 ![image](https://github.com/pernanplanc08/Matchquest-Matchain/assets/173180648/547b8e66-fc99-4f7f-a343-bd10b290550d)
+1. Auto clear taks
+2. Auto Claim
+
 
 <br>
 
+
+## How to install
 Note
 1. Install Python
 2. Install pycryptodome dengan cara ; buka cmd, lalu masukkan prompt : pip install pycryptodome
